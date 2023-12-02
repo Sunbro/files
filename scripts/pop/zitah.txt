@@ -1,0 +1,5 @@
+/bh get "%0%" 2
+/bh get "%1%" 2
+/bh get "%2%"
+/wait 1
+/bh tradenpc "%0%" 2 "%1%" 2 "%2%" 1

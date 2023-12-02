@@ -1,0 +1,37 @@
+/bind !d /exec suddentickle
+/bind !s /exec blu "Dream Flower" <t>
+/bind ^s /exec blu "Soporific" <t>
+/bind !z /exec blu "Whirl of Rage" <t>
+/bind ^c /exec mblu "Plenilune Embrace" <me>
+/bind !c /exec mblu "White Wind" <me>
+/bind ^v /exec mblu "O. Counterstance" <me>
+/wait 1
+/bind !b /exec mblu "Bad Breath" [t]
+/bind ^d /exec blu "Osmosis" <t>
+/bind !x /exec mblu "Feather Tickle" [t] 
+/bind !h /exec mblu "winds of promy." <me>
+/bind !g /exec mblu "Plasma Charge" <me>
+/bind ^g /exec mblu "Warm-up" <me>
+/bind !q /exec blu "Water bomb" <t>
+/bind ^q /exec blu "Chaotic Eye" <t>
+/bind ^n /exec blu "Blank Gaze" <t>
+/bind ^m /exec blu "Geist Wall" <t>
+#/wait 1
+#/bind +1 /exec mblu "Silent Storm" [t]
+#/bind +2 /exec mblu "Tenebral Crush" [t]
+#/bind +3 /exec mblu "Thermal Pulse" [t]
+#/bind +4 /exec mblu "Spectral Floe" [t]
+#/bind +5 /exec mblu "Searing Tempest" [t]
+#/bind +6 /exec mblu "Anvil Lightning" [t]
+#/bind +7 /exec mblu "Entomb" [t]
+#/bind +8 /exec mblu "Dark Orb" [t]
+#/wait 1
+#/bind 1 /exec blu "Sheep Song" <t>
+#/bind 2 /exec blu "Glutinous Dart" <t>
+#/bind 8 /exec mblu "Erratic Flutter" <me>
+#/bind 9 /exec mblu "nat. meditation" <me>
+#/bind 7 /exec mblu "Occultation" <me>
+#/bind 6 /exec mblu "Metallic Body" <me>
+#/bind 5 /exec mblu "Barrier Tusk" <me>
+#/bind 4 /exec mblu "Magic Barrier" <me>
+#/bind 3 /exec mblu "Cocoon" <me>

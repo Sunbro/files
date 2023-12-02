@@ -1,0 +1,11 @@
+/alias /armyofdarkness /bh tradenpc "void crystal" 1 "voso's hide" 1 "levigated rock" 1 "void grass" 1
+/alias /blackestnight /bh tradenpc "void crystal" 1 "dark matter" 1 "copse candy" 1 "ashweed" 1
+/alias /blindfaith /bh tradenpc "void crystal" 1 "muut's vestment" 1 "copse candy" 1 "ashweed" 1
+/alias /darkravager /bh tradenpc "void crystal" 1 "abyssdiver feather" 1 "nyumomo doll" 1 "gravewood log" 1
+/alias /darkrepentance /bh tradenpc "void crystal" 1 "harold's ore" 1 "ecarlate cloth" 1 "gravewood log" 1
+/alias /darksalvation /bh tradenpc "void crystal" 1 "dark matter" 1 "ecarlate cloth" 1 "gravewood log" 1
+/alias /darknessincarnate /bh tradenpc "void crystal" 1 "dark matter" 1 "copse candy" 1 "void grass" 1
+/alias /deathbornenightmare /bh tradenpc "void crystal" 1 "malatrix's shard" 1 "nyumomo doll" 1 "void grass" 1
+/alias /corruptedearth /bh tradenpc "void crystal" 1 "ninlil's bone" 1 "fortune fruits" 1 "ashweed" 1
+/alias /dragonsofdarkness /bh tradenpc "void crystal" 1 "beist's blood" 1 "levigated rock" 1 "ashweed" 1
+/alias /twilightmayhem /bh tradenpc "void crystal" 1 "scholar stone" 1 "befouled silver" 1 "void grass" 1

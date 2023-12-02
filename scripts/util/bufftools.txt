@@ -1,0 +1,5 @@
+/bh get "Toolbag (Shika)" 1
+/wait 1
+/i "Toolbag (Shika)"
+/wait 1 
+/bh put "Toolbag (Shika)" 1 satchel

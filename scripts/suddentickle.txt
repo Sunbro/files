@@ -1,0 +1,4 @@
+/mst Sunbro /bs setn 1 "sudden lunge"
+/mst Sunbro //suddenlunge [t]
+/mso /bs setn 1 "feather tickle"
+/mso //feathertickle [t]

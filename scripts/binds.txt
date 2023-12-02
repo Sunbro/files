@@ -1,0 +1,23 @@
+/bind insert /ashita
+/bind SYSRQ /screenshot hide
+/bind ^v /paste
+/bind ^f /ms followme on
+/bind !f /ms followme off
+/bind !F1 /exec util/nexus
+/bind !F2 /exec util/tag
+/bind F3 /mss /mount chocobo
+/bind !F3 /mss /dismount
+/bind F4 /mss /dig
+/bind F5 /tp
+/bind F6 /th
+/bind F7 /dt
+
+/alias /lot /lw lot
+/alias /pass /lw pass
+/alias /pick /item "trailblazing pickaxe" <t>
+/alias /hatch /item "trailblazing hatchet" <t>
+/alias /sickle /item "trailblazing sickle" <t>
+/alias /lsl /addon load simplelog
+/alias /pana /i panacea
+/alias /echo /i "echo drops"
+/alias /hallow /i "hallowed water"

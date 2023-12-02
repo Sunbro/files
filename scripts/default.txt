@@ -1,0 +1,91 @@
+##########################################################################
+#
+# Ashita v4 Default Script
+#
+# This script is executed at the start of the game to allow for the user
+# to configure their game instance automatically. Use this script to load
+# plugins, addons or adjust different settings as you see fit.
+#
+# File Syntax:
+#
+#  - Comments start with '#'.
+#  - Commands start with '/'.
+#
+##########################################################################
+
+##########################################################################
+#
+# Load Plugins and Addons
+#
+##########################################################################
+
+/load thirdparty
+/load addons
+/load screenshot
+/load multisend
+/load shorthand
+/load packetflow
+/load lootwhore
+/load bellhop
+/load findall
+
+/addon load distance
+/addon load fps
+/addon load move
+/addon load timestamp
+/addon load tparty
+/addon load luashitacast
+/addon load renamer
+/addon load drawdistance
+/addon load blusets
+/addon load debuff
+/addon load filterless
+/addon load equipmon
+/addon load craftmon
+/addon load butterfeet
+/addon load instantah
+/addon load simplelog
+/addon load statustimers
+/addon load thotbar
+/addon load autojoin
+/addon load hideconsole
+/addon load macrofix
+/addon load xicamera
+/addon load find
+
+##########################################################################
+#
+# Set Keybinds and Alias
+#
+##########################################################################
+
+/include binds
+/include warp/binds
+/include pop/binds
+/include blu/binds
+/alias /ac /lac
+
+##########################################################################
+#
+# Plugin and Addon Configurations
+#
+# Use this section to configure loaded plugins, addons and Ashita.
+#
+# Important: The wait here is required! If you remove it, addons will not
+# see any commands inside of this file!
+#
+##########################################################################
+/wait 3
+##########################################################################
+
+/addon load hxui
+
+/cam b 20
+/fps 1
+/ambient 255 255 255
+/renamer load nocsouls
+/drawdistance setworld 10
+/ms followmax 40
+/ms attemptzone on
+/shh packetws
+/autojoin mode 1
