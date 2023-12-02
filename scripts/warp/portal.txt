@@ -1,0 +1,3 @@
+/mss /targetnpc
+/wait 2
+/mss /exec warp/%0%

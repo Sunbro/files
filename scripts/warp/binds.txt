@@ -1,16 +1,16 @@
-/alias /f1 /exec warp/1
-/alias /f2 /exec warp/2
-/alias /f3 /exec warp/3
-/alias /f4 /exec warp/4
-/alias /f5 /exec warp/5
-/alias /f6 /exec warp/6
-/alias /f7 /exec warp/7
-/alias /f8 /exec warp/8
-/alias /s8 /exec warp/second/8
-/alias /s9 /exec warp/second/9
-/alias /s10 /exec warp/second/10
-/alias /s11 /exec warp/second/11
-/alias /s12 /exec warp/second/12
-/alias /s13 /exec warp/second/13
-/alias /s14 /exec warp/second/14
-/alias /s15 /exec warp/second/15
+/alias /f1 /exec warp/portal 1
+/alias /f2 /exec warp/portal 2
+/alias /f3 /exec warp/portal 3
+/alias /f4 /exec warp/portal 4
+/alias /f5 /exec warp/portal 5
+/alias /f6 /exec warp/portal 6
+/alias /f7 /exec warp/portal 7
+/alias /f8 /exec warp/portal 8
+/alias /s8 /exec warp/portal second/8
+/alias /s9 /exec warp/portal second/9
+/alias /s10 /exec warp/portal second/10
+/alias /s11 /exec warp/portal second/11
+/alias /s12 /exec warp/portal second/12
+/alias /s13 /exec warp/portal second/13
+/alias /s14 /exec warp/portal second/14
+/alias /s15 /exec warp/portal second/15

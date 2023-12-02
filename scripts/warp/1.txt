@@ -1,11 +1,7 @@
-/ms followme off
-/mss /targetnpc
-/wait 1
-/mss /sendkey numpadenter down
-/mss /sendkey numpadenter up
-/wait 1
-/mss /sendkey numpadenter down
-/mss /sendkey numpadenter up
-/wait 3
-/ms followme on
-
+/sendkey numpadenter down
+/wait .1;
+/sendkey numpadenter up
+/wait .4;
+/sendkey numpadenter down
+/wait .1;
+/sendkey numpadenter up

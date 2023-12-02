@@ -37,23 +37,3 @@
 /sendkey numpadenter down
 /wait .1;
 /sendkey numpadenter up
-/wait 2;
-/sendkey down down
-/wait .1;
-/sendkey down up
-/wait .4;
-/sendkey down down
-/wait .1;
-/sendkey down up
-/wait .4;
-/sendkey down down
-/wait .1;
-/sendkey down up
-/wait .4;
-/sendkey down down
-/wait .1;
-/sendkey down up
-/wait .4;
-/sendkey numpadenter down
-/wait .1;
-/sendkey numpadenter up
