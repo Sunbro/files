@@ -203,7 +203,7 @@ local sets = {
         Ring2 = { Name = 'Shadow Ring', Augment = { [1] = '"Refresh"+40', [2] = '"Regen"+40' } },
         Back = { Name = 'Shadow Mantle', Augment = '"Regen"+80' },
         Waist = { Name = 'Flume Belt +1', Augment = '"Regen"+80' },
-        Legs = { Name = 'Volte Hose', Augment = 'Parrying rate+24%' },
+        Legs = { Name = 'Souv. Diechlings +1', Augment = { [1] = '"Resist Charm"+10', [2] = 'Phalanx +30', [3] = 'DEF+20', [4] = '"Shield Mastery"+10' } },
         Feet = { Name = 'Souveran Schuhs +1', Augment = { [1] = 'Phys. dmg. taken -5%', [2] = 'VIT+20', [3] = 'Accuracy+20', [4] = 'Eva.+20', [5] = 'Attack+20', [6] = 'Mag. Eva.+20' } },
     },
 };
