@@ -6,6 +6,7 @@
 /alias /f6 /exec warp/portal 6
 /alias /f7 /exec warp/portal 7
 /alias /f8 /exec warp/portal 8
+/alias /f9 /exec warp/portal 9
 /alias /s8 /exec warp/portal second/8
 /alias /s9 /exec warp/portal second/9
 /alias /s10 /exec warp/portal second/10
