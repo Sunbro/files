@@ -62,7 +62,7 @@ local sets = {
     },
 	['mab'] = {
         Ammo = { Name = 'Pemphredo Tathlum', Augment = 'Mag. crit. hit dmg. +24%' },
-        Head = { Name = 'Volte Cap', Augment = '"Counter"+40' },
+        Head = { Name = 'Volte Cap', Augment = 'Parrying rate+24%' },
         Neck = { Name = 'Nefarious Collar', Augment = 'Magic crit. hit rate +40' },
         Ear1 = { Name = 'Choleric Earring', Augment = { [1] = 'Magic crit. hit rate +10', [2] = 'Mag. crit. hit dmg. +18%' } },
         Ear2 = { Name = 'Friomisi Earring', Augment = {  } },

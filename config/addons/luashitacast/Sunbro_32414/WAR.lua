@@ -20,7 +20,7 @@ local sets = {
     },
 	['mab'] = {
         Ammo = { Name = 'Pemphredo Tathlum', Augment = 'Mag. crit. hit dmg. +24%' },
-        Head = { Name = 'Volte Cap', Augment = '"Counter"+40' },
+        Head = { Name = 'Volte Cap', Augment = 'Parrying rate+24%' },
         Neck = { Name = 'Sanctity Necklace', Augment = 'Magic crit. hit rate +40' },
         Ear1 = { Name = 'Choleric Earring', Augment = { [1] = 'Magic crit. hit rate +10', [2] = 'Mag. crit. hit dmg. +18%' } },
         Ear2 = { Name = 'Friomisi Earring', Augment = {  } },
@@ -209,7 +209,7 @@ local sets = {
     },
     ['heroicdt'] = {
         Ammo = { Name = 'Staunch Tathlum +1', Augment = 'Occ. inc. resist. to stat. ailments +12' },
-        Head = { Name = 'Volte Cap', Augment = '"Counter"+40' },
+        Head = { Name = 'Volte Cap', Augment = 'Parrying rate+24%' },
         Neck = { Name = 'Combatant\'s Torque', Augment = 'Crit. hit damage +16%' },
         Ear1 = { Name = 'Hearty Earring', Augment = 'Occ. inc. resist. to stat. ailments +12' },
         Ear2 = { Name = 'Etiolation Earring', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },

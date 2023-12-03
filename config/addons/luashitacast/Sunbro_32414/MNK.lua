@@ -17,7 +17,7 @@ local sets = {
         Back = { Name = 'Shadow Mantle', Augment = '"Regen"+80' },
         Waist = { Name = 'Moonbow Belt +1', Augment = { [1] = '"Triple Atk."+8', [2] = 'DMG:+32' } },
         Legs = { Name = 'Malignance Tights', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
-        Feet = 'Malignance Boots',
+        Feet = { Name = 'Malignance Boots', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
     },
     ['ws'] = {
         Main = { Name = 'Verethragna', Augment = 'DMG:+64' },
@@ -70,7 +70,7 @@ local sets = {
     ['mab'] = {
         Main = { Name = 'Verethragna', Augment = 'DMG:+64' },
         Ammo = { Name = 'Pemphredo Tathlum', Augment = 'Mag. crit. hit dmg. +24%' },
-        Head = { Name = 'Volte Cap', Augment = '"Counter"+40' },
+        Head = { Name = 'Volte Cap', Augment = 'Parrying rate+24%' },
         Neck = { Name = 'Nefarious Collar', Augment = 'Magic crit. hit rate +40' },
         Ear1 = { Name = 'Choleric Earring', Augment = { [1] = 'Magic crit. hit rate +10', [2] = 'Mag. crit. hit dmg. +18%' } },
         Ear2 = { Name = 'Friomisi Earring', Augment = {  } },
@@ -81,7 +81,7 @@ local sets = {
         Back = { Name = 'Toro Cape', Augment = 'INT+32' },
         Waist = { Name = 'Eschan Stone', Augment = {  } },
         Legs = { Name = 'Volte Hose', Augment = 'Parrying rate+24%' },
-        Feet = 'Malignance Boots',
+        Feet = { Name = 'Malignance Boots', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
     },
     ['footwork'] = {
         Feet = 'Shukuyu Sune-ate',
@@ -141,7 +141,7 @@ local sets = {
         Back = { Name = 'Laic Mantle', Augment = 'Crit. hit damage +16%' },
         Waist = { Name = 'Moonbow Belt +1', Augment = { [1] = '"Triple Atk."+8', [2] = 'DMG:+32' } },
         Legs = { Name = 'Jokushu Haidate', Augment = 'Crit.hit rate+32' },
-        Feet = 'Malignance Boots',
+        Feet = { Name = 'Malignance Boots', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
     },
 	['nexus'] = {
 		Back = 'Nexus Cape',
@@ -192,7 +192,7 @@ local sets = {
         Back = { Name = 'Shadow Mantle', Augment = '"Regen"+80' },
         Waist = 'Moonbow Belt +1',
         Legs = { Name = 'Jokushu Haidate', Augment = 'Crit.hit rate+32' },
-        Feet = 'Malignance Boots',
+        Feet = { Name = 'Malignance Boots', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
     },
     ['heroictp'] = {
         Main = { Name = 'Verethragna', Augment = 'DMG:+64' },
@@ -208,12 +208,12 @@ local sets = {
         Back = { Name = 'Laic Mantle', Augment = 'Crit. hit damage +16%' },
         Waist = { Name = 'Moonbow Belt +1', Augment = { [1] = '"Triple Atk."+8', [2] = 'DMG:+32' } },
         Legs = { Name = 'Heidrek Brais', Augment = '"Triple Atk."+16' },
-        Feet = 'Malignance Boots',
+        Feet = { Name = 'Malignance Boots', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
     },
     ['heroicdt'] = {
         Main = { Name = 'Verethragna', Augment = 'DMG:+64' },
         Ammo = { Name = 'Staunch Tathlum +1', Augment = 'Occ. inc. resist. to stat. ailments +12' },
-        Head = { Name = 'Volte Cap', Augment = '"Counter"+40' },
+        Head = { Name = 'Volte Cap', Augment = 'Parrying rate+24%' },
         Neck = { Name = 'Combatant\'s Torque', Augment = 'Crit. hit damage +16%' },
         Ear1 = { Name = 'Etiolation Earring', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
         Ear2 = { Name = 'Hearty Earring', Augment = 'Occ. inc. resist. to stat. ailments +12' },
@@ -224,7 +224,7 @@ local sets = {
         Back = { Name = 'Shadow Mantle', Augment = '"Regen"+80' },
         Waist = { Name = 'Moonbow Belt +1', Augment = { [1] = '"Triple Atk."+8', [2] = 'DMG:+32' } },
         Legs = { Name = 'Heidrek Brais', Augment = '"Triple Atk."+16' },
-        Feet = 'Malignance Boots',
+        Feet = { Name = 'Malignance Boots', Augment = { [1] = 'Mag. Evasion+72', [2] = 'Evasion+72' } },
     },
     ['impetus'] = {
         Main = { Name = 'Verethragna', Augment = 'DMG:+64' },
