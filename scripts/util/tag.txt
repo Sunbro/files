@@ -1,1 +1,1 @@
-/mso /include blu "glutinous dart"
+/mso /exec blu "glutinous dart" [t]
