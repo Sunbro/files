@@ -97,7 +97,7 @@ local sets = {
         Hands = { Name = 'Hattori Tekko +1', Augment = 'Magic burst dmg.+40%' },
         Ring1 = { Name = 'Shiva Ring +1', Augment = 'Magic crit. hit rate +40' },
         Ring2 = { Name = 'Shiva Ring +1', Augment = 'Mag. crit. hit dmg. +18%' },
-        Back = { Name = 'Izdubar Mantle', Augment = { [1] = 'Magic Damage+96', [2] = 'Mag. Acc.+96' } },
+        Back = { Name = 'Aput Mantle +1', Augment = { [1] = 'Magic Damage+96', [2] = 'Mag. Acc.+96' } },
         Waist = { Name = 'Skrymir Cord', Augment = 'INT+32' },
         Legs = { Name = 'Gyve Trousers', Augment = 'Mag. crit. hit dmg. +24%' },
         Feet = 'Mochi. Kyahan +3',
