@@ -2,7 +2,7 @@
 /alias /angrboda /exec pop/zitah "Pitriv's Thread" "Harold's Ore" "Abyssdiver Feather"
 /alias /cunnast /exec pop/zitah "Abyssdiver Feather" "Malatrix's Shard" "Heiligtum's Moss"
 /alias /ferrodon /exec pop/zitah "Immani. Hide" "Ninlil's Bone" "Muut's Vestment"
-/alias /gestalt /exec pop/zitah "Beist's Blood" "Ninlil's Bone" "Muut's Vestment"
+/alias /gestalt /exec pop/zitah "Beist's Blood" "Ninlil's Bone" "Malatrix's Shard"
 /alias /gulltop /exec pop/zitah "Pitriv's Thread" "Heiligtum's Moss" "Malatrix's Shard"
 /alias /lydia /exec pop/zitah "Harold's Ore" "Ninlil's Bone" "Voso's Hide"
 /alias /revetaur /exec pop/zitah "Heiligtum's Moss" "Voso's Hide" "Beist's Blood"
@@ -10,3 +10,12 @@
 /alias /vidala /exec pop/zitah "Malatrix's Shard" "Abyssdiver Feather" "Harold's Ore"
 /alias /vyala /exec pop/zitah "Abyssdiver Feather" "Harold's Ore" "Heiligtum's Moss"
 /alias /wepwawet /exec pop/zitah "Pitriv's Thread" "Beist's Blood" "Muut's Vestment"
+
+/alias /pwater /exec trade "Water Cluster" 1
+/alias /pice /exec trade "Ice Cluster" 1
+/alias /pfire /exec trade "Fire Cluster" 1
+/alias /pearth /exec trade "Earth Cluster" 1
+/alias /pwind /exec trade "Wind Cluster" 1
+/alias /plightning /exec trade "Lightning Cluster" 1
+/alias /pdark /exec trade "Dark Cluster" 1
+/alias /plight /exec trade "Light Cluster" 1

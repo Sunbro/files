@@ -1,0 +1,3 @@
+/bh get "%0%" %1%
+/wait .5
+/bh tradenpc "%0%" %1%
